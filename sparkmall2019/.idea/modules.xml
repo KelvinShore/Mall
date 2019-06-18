@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spark-offine.iml" filepath="$PROJECT_DIR$/spark-offine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkmall-common.iml" filepath="$PROJECT_DIR$/sparkmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkmall-mock.iml" filepath="$PROJECT_DIR$/sparkmall-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkmall2019.iml" filepath="$PROJECT_DIR$/sparkmall2019.iml" />
+    </modules>
+  </component>
+</project>
