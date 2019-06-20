@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spark-offine.iml" filepath="$PROJECT_DIR$/spark-offine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-warehouse/spark-warehouse.iml" filepath="$PROJECT_DIR$/spark-warehouse/spark-warehouse.iml" />
       <module fileurl="file://$PROJECT_DIR$/sparkmall-common.iml" filepath="$PROJECT_DIR$/sparkmall-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/sparkmall-mock.iml" filepath="$PROJECT_DIR$/sparkmall-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkmall-realtime/sparkmall-realtime.iml" filepath="$PROJECT_DIR$/sparkmall-realtime/sparkmall-realtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/sparkmall2019.iml" filepath="$PROJECT_DIR$/sparkmall2019.iml" />
     </modules>
   </component>
